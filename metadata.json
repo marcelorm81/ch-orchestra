@@ -1,0 +1,5 @@
+{
+  "name": "CH-Orchestra",
+  "description": "An interactive web application where users generate music live using their mouse, touchpad, or finger gestures. Movements across the screen influence a dynamic symphony in real time, with visual feedback of a glowing circle and a magical trace, all set within a rich red theatrical theme.",
+  "requestFramePermissions": []
+}
